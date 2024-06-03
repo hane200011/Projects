@@ -1,0 +1,51 @@
+body{
+background-color: rgb(15, 15, 15);
+text-align: center;
+}
+.sorh{
+margin-top: 15px;
+border-radius: 100px;
+width: 125px;
+height: 114px;
+}
+
+button{
+    margin-top: 25px;
+color: #ffffff;
+text-align: center;
+height: 40px;
+width: 240px;
+background-color: rgba(16, 16, 15, 0);
+cursor: pointer;
+transition-duration: 0.4s;
+}
+.home{
+    border: 0,1px rgb(202, 184, 184) solid;
+    width: 400px;
+ height: 600px;
+margin-left:480px ;
+border-radius: 10px;
+background-color: rgb(31, 28, 28);
+margin-top: 25px;
+}
+h3{
+color: #9db514;
+}
+p{
+    color: #f3e8e8;
+}
+h1{
+    color: #ffffff;
+}
+.button1:hover{
+background-color: #9db514;
+}
+.button2:hover{
+background-color: #9db514;    
+}
+.button3:hover{
+background-color: #9db514;
+}
+.button4:hover{
+background-color: #9db514;
+}
